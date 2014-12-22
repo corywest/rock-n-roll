@@ -1,3 +1,86 @@
 html, body {
-  margin: 20px;
+  margin: 2px;
+  height: 100%;
+}
+
+.ember-view {
+  height: 100%;
+}
+
+.sidebar {
+  background-color: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.8);
+
+  padding: 10px 0 0 15px;
+
+  position:absolute;
+  width:300px;
+  height:100%;
+  top:0;
+  left:0;
+}
+
+.main {
+  color: rgba(0, 0, 0, 0.8);
+
+  padding: 10px;
+
+  border: 1px solid black;
+  position:fixed;
+  width:1000px;
+  height:100%;
+  top:15px;
+  left:350px;
+}
+
+.posts {
+  color: rgba(0, 0, 0, 0.8);
+
+  padding: 10px;
+
+  border: 1px solid black;
+  position:fixed;
+  width:1000px;
+  height:100%;
+  top:15px;
+  left:350px;
+}
+
+.about {
+  color: rgba(0, 0, 0, 0.8);
+
+  padding: 10px 0px 0px 5px;
+
+  border: 1px solid black;
+  position:fixed;
+  width:1000px;
+  height:100%;
+  top:15px;
+  left:350px;
+}
+
+.contact {
+  color: rgba(0, 0, 0, 0.8);
+
+  padding: 10px;
+
+  border: 1px solid black;
+  position:fixed;
+  width:1000px;
+  height:100%;
+  top:15px;
+  left:350px;
+}
+
+.coffee {
+  color: rgba(0, 0, 0, 0.8);
+
+  padding: 10px;
+
+  border: 1px solid black;
+  position:fixed;
+  width:1000px;
+  height:100%;
+  top:15px;
+  left:350px;
 }
