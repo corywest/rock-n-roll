@@ -84,3 +84,7 @@ html, body {
   top:15px;
   left:350px;
 }
+
+.location {
+  background-color:red;
+}
