@@ -17,6 +17,7 @@ Router.map(function() {
     this.route('location');
     this.route('type');
     this.route('price');
+    this.route('name');
   });
 });
 

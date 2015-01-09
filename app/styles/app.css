@@ -85,6 +85,19 @@ html, body {
   left:350px;
 }
 
+/*.all_coffee {
+  color: rgba(0, 0, 0, 0.8);
+
+  padding: 10px;
+
+  border: 1px solid black;
+  position:fixed;
+  width:1000px;
+  height:100%;
+  top:500px;
+  left:350px;
+}*/
+
 .location {
   background-color: rgb(231, 231, 231);
   width:978px;
@@ -103,6 +116,14 @@ html, body {
 
 .price {
   background-color: rgb(103, 250, 200);
+  width:978px;
+  height:90%;
+  top:15px;
+  left:350px;
+}
+
+.name {
+  background-color: rgb(255, 192, 96);
   width:978px;
   height:90%;
   top:15px;
